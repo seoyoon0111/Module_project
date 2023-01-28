@@ -1,12 +1,15 @@
 # module_project
 한국의 문화 유산 tkinter 앱
 
+알고리즘 구현
 ![스크린샷(404)](https://user-images.githubusercontent.com/65655570/215270959-415cb441-42e9-4b0b-9361-e11c304118cf.png)
 
+tkinter app 구성
 ![스크린샷(405)](https://user-images.githubusercontent.com/65655570/215270966-7ae6a30d-9a0c-4f76-b015-5b2e4236ba23.png)
 
 
 시연 스크린샷
+
 main 화면
 ![tkinter1](https://user-images.githubusercontent.com/65655570/215270976-81296c00-6ada-43c3-9650-eef36f8037db.png)
 
